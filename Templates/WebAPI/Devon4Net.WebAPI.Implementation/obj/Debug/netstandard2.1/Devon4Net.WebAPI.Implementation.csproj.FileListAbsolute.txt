@@ -1,0 +1,10 @@
+C:\Users\gcanosa\source\repos\jump-the-queue-master\Templates\WebAPI\Devon4Net.WebAPI.Implementation\bin\Debug\netstandard2.1\Devon4Net.WebAPI.Implementation.xml
+C:\Users\gcanosa\source\repos\jump-the-queue-master\Templates\WebAPI\Devon4Net.WebAPI.Implementation\bin\Debug\netstandard2.1\Devon4Net.WebAPI.Implementation.deps.json
+C:\Users\gcanosa\source\repos\jump-the-queue-master\Templates\WebAPI\Devon4Net.WebAPI.Implementation\bin\Debug\netstandard2.1\Devon4Net.WebAPI.Implementation.dll
+C:\Users\gcanosa\source\repos\jump-the-queue-master\Templates\WebAPI\Devon4Net.WebAPI.Implementation\bin\Debug\netstandard2.1\Devon4Net.WebAPI.Implementation.pdb
+C:\Users\gcanosa\source\repos\jump-the-queue-master\Templates\WebAPI\Devon4Net.WebAPI.Implementation\obj\Debug\netstandard2.1\Devon4Net.WebAPI.Implementation.csprojAssemblyReference.cache
+C:\Users\gcanosa\source\repos\jump-the-queue-master\Templates\WebAPI\Devon4Net.WebAPI.Implementation\obj\Debug\netstandard2.1\Devon4Net.WebAPI.Implementation.AssemblyInfoInputs.cache
+C:\Users\gcanosa\source\repos\jump-the-queue-master\Templates\WebAPI\Devon4Net.WebAPI.Implementation\obj\Debug\netstandard2.1\Devon4Net.WebAPI.Implementation.AssemblyInfo.cs
+C:\Users\gcanosa\source\repos\jump-the-queue-master\Templates\WebAPI\Devon4Net.WebAPI.Implementation\obj\Debug\netstandard2.1\Devon4Net.WebAPI.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\gcanosa\source\repos\jump-the-queue-master\Templates\WebAPI\Devon4Net.WebAPI.Implementation\obj\Debug\netstandard2.1\Devon4Net.WebAPI.Implementation.dll
+C:\Users\gcanosa\source\repos\jump-the-queue-master\Templates\WebAPI\Devon4Net.WebAPI.Implementation\obj\Debug\netstandard2.1\Devon4Net.WebAPI.Implementation.pdb
